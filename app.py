@@ -4,7 +4,7 @@ import torch
 import pandas as pd
 import torch.nn as nn
 
-app = Flask(_name_)
+app = Flask(__name__)
 
 
 with open("vectorizer.pkl", "rb") as f:
@@ -70,5 +70,5 @@ def predict():
 
     return render_template('result.html', disease=disease, tests=tests, cost=cost)
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     app.run(debug=True)
