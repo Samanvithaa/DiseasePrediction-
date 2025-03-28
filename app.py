@@ -17,8 +17,8 @@ with open("label_encoder.pkl", "rb") as f:
 data = pd.read_csv("MedicalDataset.csv")
 
 class DiseasePredictor(nn.Module):
-    def _init_(self, input_size, hidden_size, output_size):
-        super(DiseasePredictor, self)._init_()
+    def __init__(self, input_size, hidden_size, output_size):
+        super(DiseasePredictor, self).__init__()
         self.fc1 = nn.Linear(input_size, hidden_size)
         self.relu = nn.ReLU()
         self.fc2 = nn.Linear(hidden_size, output_size)
