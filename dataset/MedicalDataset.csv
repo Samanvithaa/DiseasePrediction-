@@ -1,0 +1,219 @@
+Patient_Problem,Disease,Prescription
+"Constant fatigue and muscle weakness, struggling to stay awake, brain fog, persistent headaches, and unrefreshing sleep.",Chronic Fatigue Syndrome,"Cognitive behavioral therapy, graded exercise therapy."
+"Frequent severe migraines with throbbing pain, sensitivity to light and sound, visual aura, nausea, and dizziness.",Migraine with Aura,"Prescription triptans, avoid triggers like bright lights."
+"Sudden weight gain and feeling cold, especially in the hands and feet, constipation, dry skin, hair loss, and fatigue.",Hypothyroidism,Levothyroxine to regulate thyroid hormone levels.
+"High fever, sore throat with white patches, swollen lymph nodes, feeling very weak, headache, and body aches.",Mononucleosis,"Rest and hydration, ibuprofen for pain."
+"Excessive thirst and frequent urination, dry mouth persistently, blurred vision, unexplained weight loss, and increased hunger.",Diabetes Mellitus,Insulin therapy and lifestyle changes.
+"Sharp, stabbing chest pain that worsens when lying down or inhaling deeply, shortness of breath, palpitations, and mild fever.",Pericarditis,"Anti-inflammatory medication, rest."
+"Unexplained weight loss and night sweats, feeling feverish, persistent cough, fatigue, and enlarged lymph nodes.",Tuberculosis,"Antibiotics, rest, and a high-calorie diet."
+"Severe abdominal pain radiating to the back, nausea without vomiting, fever, rapid pulse, and tenderness to the touch.",Pancreatitis,"IV fluids, pain relief, and sometimes surgery."
+"Joint swelling and stiffness in the morning, especially in the fingers and wrists, fatigue, low-grade fever, and dry eyes.",Rheumatoid Arthritis,"DMARDs and NSAIDs, physical therapy."
+"Recurrent, painful blisters around the mouth and nose, tingling or burning sensation before outbreak, fever, and swollen glands.",Herpes Simplex,"Antiviral medication, pain relief creams."
+"Progressive difficulty swallowing, accompanied by heartburn, chest pain, regurgitation of food, and sore throat.",Esophageal Reflux,"Antacids, avoid spicy and fatty foods."
+"Chronic diarrhea, abdominal cramps, and gas, bloating, urgency, mucus in stool, and fatigue.",Irritable Bowel Syndrome,"Fiber supplements, antispasmodic drugs."
+"Intense itching, especially at night, with visible burrows on the skin, small red bumps, rash, and secondary skin infections from scratching.",Scabies,"Permethrin cream, wash all clothing and bedding."
+"Yellowing of the skin and eyes, dark urine, and general fatigue, abdominal pain, nausea, and loss of appetite.",Hepatitis,"Antiviral drugs, liver function monitoring."
+"Sudden, severe headache with no known cause, blurred vision, stiff neck, loss of consciousness, and vomiting.",Subarachnoid Hemorrhage,"Immediate medical evaluation, possibly surgery."
+"Persistent cough with blood-tinged sputum, night sweats, unexplained weight loss, shortness of breath, and chest pain.",Lung Cancer,"Chemotherapy, targeted drug therapy."
+"Frequent nosebleeds, easy bruising, and prolonged bleeding from cuts, joint pain, fatigue, and anemia.",Hemophilia,Replacement therapy with clotting factors.
+"Severe itching and rash after consuming certain foods, hives, swelling of the lips or tongue, difficulty breathing, and vomiting.",Food Allergy,"Avoidance of allergens, antihistamines."
+"Repeated urinary tract infections, burning sensation while urinating, frequent urge to urinate, lower abdominal pain, and cloudy urine.",Urinary Tract Infection,"Antibiotics, plenty of fluids."
+"Difficulty concentrating, memory lapses, and confusion, disorientation, personality changes, and impaired judgment.",Early Onset Dementia,"Cognitive stimulation therapy, supportive care."
+"I've been feeling extremely fatigued and find it hard to concentrate, experiencing muscle aches, headaches, and unrefreshing sleep.",Chronic Fatigue Syndrome,"Regular exercise, stress management techniques."
+"Experiencing frequent headaches, sensitivity to light and sound, nausea, visual disturbances, and dizziness.",Migraine,"Avoid triggers, consider prophylactic medications."
+"Noticed a persistent cough and occasional wheezing, especially at night, shortness of breath, chest tightness, and mucus production.",Asthma,"Inhaled corticosteroids, avoid allergens."
+"Sudden episodes of rapid heartbeat, feeling faint, chest pain, shortness of breath, and trembling.",Panic Attacks,"Deep breathing exercises, SSRIs if recurrent."
+"Unintended weight loss and constant thirst, frequent urination, increased hunger, blurred vision, and fatigue.",Type 1 Diabetes,"Insulin therapy, dietary adjustments."
+"Joint pain in hands and feet, stiffness in the morning, swelling, redness, limited range of motion, and fatigue.",Rheumatoid Arthritis,"DMARDs, physical therapy."
+"Recurrent stomach pain, bloating, and altered bowel habits, diarrhea, constipation, gas, and mucus in stool.",Irritable Bowel Syndrome (IBS),"Diet modification, antispasmodic drugs."
+"Severe acne on face and back, not responding to over-the-counter treatments, cysts, nodules, inflammation, and scarring.",Cystic Acne,"Topical retinoids, oral antibiotics for severe cases."
+"Difficulty falling asleep, waking up frequently during the night, trouble staying asleep, daytime fatigue, and irritability.",Insomnia,"Good sleep hygiene, cognitive-behavioral therapy."
+"Constantly feeling sad, loss of interest in activities, hopelessness, changes in appetite or weight, and sleep disturbances.",Major Depressive Disorder,"Antidepressants, psychotherapy."
+"Blurry vision, especially when looking at objects close or far away, eye strain, headaches, and squinting.",Myopia and Hyperopia,"Corrective lenses or contact lenses, regular eye exams."
+"Frequent urination, especially at night, and feeling thirsty, dry mouth, blurred vision, and fatigue.",Diabetes Type 2,"Lifestyle changes, metformin for blood sugar control."
+"Swelling and pain in the big toe, redness around the joint, warmth, tenderness, and limited range of motion.",Gout,"Avoid foods high in purines, allopurinol."
+"Shortness of breath during physical activities, chest tightness, wheezing, chronic cough, and fatigue.",Chronic Obstructive Pulmonary Disease (COPD),"Long-acting bronchodilators, quit smoking."
+"Recurrent episodes of vertigo, feeling like the room is spinning, nausea, vomiting, and difficulty with balance.",Benign Positional Vertigo,"Avoid sudden head movements, vestibular rehab exercises."
+"Excessive sweating, even when not engaging in physical activities, sweating through clothing, social anxiety, and skin irritation.",Hyperhidrosis,"Antiperspirants, botox injections in severe cases."
+"Yellowing of the skin and eyes, fatigue, and abdominal pain, dark urine, pale stools, and itching.",Hepatitis,"Antiviral medication, avoid alcohol."
+"Persistent sore throat, difficulty swallowing, and swollen lymph nodes, fever, headache, and body aches.",Pharyngitis,"Antibiotics if bacterial, pain relievers."
+"Numbness and tingling in the hands and feet, weakness, burning pain, sharp pain, and sensitivity to touch.",Peripheral Neuropathy,"Blood sugar control, gabapentin for pain relief."
+"Sharp, stabbing pain in the chest, worsening with deep breaths, shortness of breath, rapid heartbeat, and coughing up blood.",Pulmonary Embolism,"Anticoagulants, avoid prolonged periods of immobility."
+"I've been experiencing severe headaches and occasional dizziness, along with nausea and sensitivity to light and sound.",Migraine and Vertigo,Sumatriptan; avoid stress triggers.
+"My stomach has been upset, and I've had bouts of diarrhea and nausea, accompanied by abdominal cramps and vomiting.",Gastrointestinal Infection,Hydration; Probiotics; Loperamide if necessary.
+"I've noticed a rash on my arm that's itchy and spreading, with redness, small bumps, and blistering.",Contact Dermatitis,Hydrocortisone cream; avoid irritants.
+"I have persistent coughing and shortness of breath, along with wheezing, mucus production, and chest tightness.",Chronic Bronchitis,Inhaled corticosteroids; quit smoking.
+"I'm experiencing sharp knee pain when walking or climbing stairs, accompanied by swelling, stiffness, and limited range of motion.",Patellar Tendinitis,Physical therapy; ice application.
+"My vision has become blurry, especially when reading, and I'm experiencing headaches and eye strain.",Myopia,Prescription glasses; regular eye check-ups.
+"I have been feeling very tired lately, even with a full night's sleep, along with muscle aches, headaches, and difficulty concentrating.",Chronic Fatigue Syndrome,Balanced diet; regular exercise; CBT for mental health.
+"I experience severe back pain after sitting for long periods, radiating down my leg, with numbness and tingling in my foot.",Sciatica,Pain relievers; physical therapy.
+"I have frequent urination and excessive thirst, accompanied by fatigue, blurred vision, and unexplained weight loss.",Diabetes Mellitus,Metformin; lifestyle changes.
+"I've been having trouble sleeping, feeling anxious and restless, with racing thoughts and difficulty relaxing.",Insomnia and Anxiety,Sleep hygiene practices; consider melatonin or counseling.
+"My throat has been sore, and I've had a fever for a few days, along with difficulty swallowing, headache, and body aches.",Streptococcal Pharyngitis,Amoxicillin; rest; increase fluid intake.
+"I've been feeling depressed and unmotivated to do daily tasks, with loss of interest in activities, changes in appetite, and sleep disturbances.",Major Depressive Disorder,SSRIs; psychotherapy.
+"I noticed swelling and pain in my joints, especially in the morning, with stiffness, redness, and limited range of motion.",Rheumatoid Arthritis,NSAIDs; physical therapy.
+"I've been experiencing sudden weight loss and increased appetite, along with rapid heartbeat, anxiety, and sweating.",Hyperthyroidism,Levothyroxine; regular TSH level monitoring.
+"I have a constant ringing in my ears that's affecting my hearing, along with dizziness, headache, and difficulty concentrating.",Tinnitus,Noise suppression devices; avoid loud noises.
+"I've been getting nosebleeds more frequently than usual, with easy bruising and prolonged bleeding from cuts.",Epistaxis,Humidify your home; avoid picking your nose.
+"I feel a sharp pain in my chest when I breathe deeply, accompanied by shortness of breath and fever.",Pleurisy,NSAIDs; rest; consult if persistent.
+"I've noticed my skin getting yellowish, especially around the eyes, along with fatigue, abdominal pain, and dark urine.",Jaundice,Liver function tests; consult for possible causes.
+"I have difficulty swallowing, and my throat feels tight, accompanied by heartburn, chest pain, and regurgitation of food.",Esophageal Stricture,PPIs; eat smaller meals; avoid lying down after eating.
+"I've been feeling numbness and tingling in my hands and feet, along with weakness, burning pain, and sensitivity to touch.",Peripheral Neuropathy,Vitamin B12 supplements; consult for further evaluation.
+"I have been feeling unusually tired and lethargic for the last month, experiencing difficulty concentrating and muscle weakness.",Chronic Fatigue Syndrome,Advised rest and stress reduction techniques.
+"Experiencing severe joint pain in my hands and feet, along with stiffness, swelling, and difficulty moving.",Rheumatoid Arthritis,Prescribed methotrexate and daily physical therapy.
+"Constant shortness of breath and tightness in my chest, accompanied by wheezing, coughing, and difficulty breathing.",Asthma,Inhaled corticosteroids and avoidance of triggers.
+"Uncontrollable shaking and tremors in my hands, accompanied by stiffness, slow movement, and difficulty with balance.",Parkinson's Disease,Levodopa and regular neurology consultations.
+"Frequent migraines that last for hours, with throbbing pain, sensitivity to light and sound, nausea, and vomiting.",Migraine,Propranolol and avoiding known triggers.
+"Sudden weight gain and puffiness in the face, accompanied by fatigue, constipation, and dry skin.",Hypothyroidism,Levothyroxine sodium to regulate thyroid hormone levels.
+"Persistent sore throat and difficulty swallowing, accompanied by fever, headache, and body aches.",Strep Throat,Antibiotics and warm salt gargle.
+"Blurry vision that worsens by the end of the day, accompanied by headaches, eye strain, and difficulty focusing.",Myopia,Prescribed corrective lenses and eye rest.
+"High fever with chills and night sweats, accompanied by headache, muscle aches, and fatigue.",Influenza,"Oseltamivir phosphate if caught early, otherwise rest and fluids."
+"Sharp stomach pain that comes and goes, accompanied by nausea, vomiting, bloating, and loss of appetite.",Gastritis,Proton pump inhibitors and diet modification.
+"Excessive sweating even in cool temperatures, accompanied by anxiety, social embarrassment, and skin irritation.",Hyperhidrosis,Antiperspirants with aluminum chloride; botox injections in severe cases.
+"Swollen, red patches of skin that are painful to touch, accompanied by fever, chills, and fatigue.",Cellulitis,Antibiotics and keeping the area clean and covered.
+"Dry, itchy eyes that feel gritty, accompanied by burning sensation, redness, and blurred vision.",Dry Eye Syndrome,Artificial tears and blinking exercises.
+"Numbness and tingling in my feet, accompanied by burning pain, weakness, and sensitivity to touch.",Peripheral Neuropathy,Vitamin B12 supplements and wearing supportive shoes.
+"Severe back pain that limits my movement, radiating down my leg, with numbness, tingling, and muscle weakness.",Herniated Disc,Pain relievers and physical therapy; surgery in severe cases.
+"Frequent urination and a burning sensation, accompanied by lower abdominal pain, urgency, and cloudy urine.",Urinary Tract Infection,Antibiotics and increased fluid intake.
+"A cough that has lasted more than three weeks, accompanied by shortness of breath, wheezing, and mucus production.",Chronic Bronchitis,Long-term bronchodilators and quitting smoking.
+"Memory lapses and difficulty concentrating, accompanied by confusion, disorientation, and personality changes.",Alzheimer's Disease,Cognitive enhancers and supportive care.
+"Feeling down, depressed, or hopeless, accompanied by loss of interest in activities, changes in appetite, and sleep disturbances.",Major Depressive Disorder,SSRIs and cognitive-behavioral therapy.
+"Sudden episodes of rapid heartbeat, accompanied by feeling faint, chest pain, shortness of breath, and anxiety.",Panic Disorder,Beta-blockers and stress management techniques.
+"Constant fatigue and difficulty concentrating for weeks, accompanied by muscle aches, headaches, and unrefreshing sleep.",Chronic Fatigue Syndrome,"Gradual increase in physical activity, cognitive behavioral therapy."
+"Recurring severe headaches and sensitivity to light, accompanied by nausea, vomiting, and visual disturbances.",Migraines,"Avoid triggers, prescribed triptans."
+"Sudden shortness of breath with mild exertion, accompanied by wheezing, chest tightness, and coughing.",Asthma,"Inhaled corticosteroids, avoid allergens."
+"Frequent episodes of heartburn and acid reflux, accompanied by chest pain, regurgitation of food, and difficulty swallowing.",Gastroesophageal Reflux Disease,Antacids and lifestyle changes.
+"Itchy, watery eyes and sneezing, especially outdoors, accompanied by runny nose, congestion, and headache.",Allergic Rhinitis,Antihistamines and nasal corticosteroids.
+"Sharp pain in lower back when bending or lifting, radiating down the leg, with numbness and tingling.",Sciatica,"Physical therapy, NSAIDs."
+"Swollen, tender joints in hands and wrists, accompanied by stiffness, redness, and limited range of motion.",Rheumatoid Arthritis,DMARDs and NSAIDs.
+"Persistent cough with greenish phlegm, accompanied by shortness of breath, chest pain, and fatigue.",Bronchitis,"Antibiotics if bacterial, and cough suppressants."
+"Intense mood swings and periods of high energy followed by fatigue, accompanied by impulsivity, irritability, and sleep disturbances.",Bipolar Disorder,Mood stabilizers and psychotherapy.
+"Blurred vision and difficulty seeing at night, accompanied by trouble adjusting to darkness, and glare around lights.",Night Blindness,Vitamin A supplements and avoid driving at night.
+"Unexplained weight loss and increased thirst, accompanied by frequent urination, increased hunger, and blurred vision.",Type 1 Diabetes,Insulin therapy and diet adjustments.
+"Painful urination and cloudy urine, accompanied by frequent urge to urinate, lower abdominal pain, and burning sensation.",Urinary Tract Infection,Antibiotics and plenty of fluids.
+"Dry, red patches of skin that crack and bleed, accompanied by itching, inflammation, and thickened skin.",Psoriasis,Topical corticosteroids and moisturizers.
+"Numbness in hands and feet, worsening at night, accompanied by tingling, burning pain, and weakness.",Peripheral Neuropathy,Vitamin B12 supplements and pain relievers.
+"Dizziness and loss of balance, especially when standing up, accompanied by lightheadedness, blurred vision, and nausea.",Vertigo,Epley maneuver and meclizine for relief.
+"Feeling of fullness and discomfort in the upper abdomen, accompanied by nausea, bloating, and loss of appetite.",Gastritis,"Proton pump inhibitors, avoid spicy foods."
+"Brittle nails and hair loss, accompanied by dry skin, fatigue, and weight gain.",Hypothyroidism,Levothyroxine sodium tablets.
+"Tremors in hands and difficulty with fine motor skills, accompanied by stiffness, slow movement, and balance problems.",Parkinson's Disease,Levodopa and physical therapy.
+"Insomnia and persistent difficulty falling or staying asleep, accompanied by daytime fatigue, irritability, and difficulty concentrating.",Insomnia,"Sleep hygiene education, possibly sleeping pills."
+"Episodes of severe anxiety and panic attacks, accompanied by rapid heartbeat, shortness of breath, chest pain, and fear of losing control.",Panic Disorder,"Cognitive-behavioral therapy, SSRIs."
+"I've been experiencing severe headaches and occasional dizziness lately, accompanied by nausea, sensitivity to light and sound.",Migraine,"Prescribe sumatriptan; advise rest in a dark, quiet room."
+"My stomach has been upset, with bouts of diarrhea and nausea, accompanied by abdominal cramps, bloating, and gas.",Irritable Bowel Syndrome,Recommend dietary changes; prescribe antispasmodics as needed.
+"Noticed a spreading rash on my arm that's quite itchy, with redness, small bumps, and blistering.",Contact Dermatitis,Advise to avoid allergen; prescribe topical steroids for rash.
+"Persistent coughing and difficulty breathing at night, accompanied by wheezing, chest tightness, and mucus production.",Bronchial Asthma,Inhaled corticosteroids; avoid allergens; short-acting beta-agonists as needed.
+"Sharp knee pain when walking or climbing stairs, accompanied by swelling, stiffness, and limited range of motion.",Knee Osteoarthritis,Physical therapy; oral NSAIDs; consider hyaluronic acid injections.
+"Vision is blurry, especially when reading or looking at screens, accompanied by headaches, eye strain, and squinting.",Myopia,Prescription eyeglasses or contacts; regular vision check-ups.
+"Feeling unusually tired, even after sleeping well, accompanied by muscle aches, headaches, and difficulty concentrating.",Chronic Fatigue Syndrome,Encourage healthy lifestyle; cognitive behavioral therapy if needed.
+"Severe back pain after sitting for long periods, radiating down the leg, with numbness, tingling, and muscle weakness.",Sciatica,Physical therapy; NSAIDs for pain relief; lifestyle modifications.
+"Experiencing frequent urination and excessive thirst, accompanied by fatigue, blurred vision, and unexplained weight loss.",Type 1 Diabetes Mellitus,Insulin therapy; diet and exercise plan; regular blood glucose monitoring.
+"Trouble sleeping, with anxiety and restlessness at night, accompanied by racing thoughts, difficulty relaxing, and daytime fatigue.",Insomnia,Sleep hygiene education; consider short-term use of sleeping pills.
+"Sudden weight loss and a constant feeling of hunger, accompanied by rapid heartbeat, anxiety, sweating, and fatigue.",Hyperthyroidism,Antithyroid medications; regular monitoring of thyroid function tests.
+"Excessive sweating and intolerance to heat, accompanied by anxiety, rapid heartbeat, and weight loss.",Hyperhidrosis,Antiperspirants; botox injections in severe cases; lifestyle changes.
+"Dry skin and hair, feeling cold all the time, accompanied by fatigue, weight gain, and constipation.",Hypothyroidism,Thyroid hormone replacement therapy; regular TSH level checks.
+"Irregular heartbeat and feeling jittery, accompanied by palpitations, shortness of breath, and dizziness.",Atrial Fibrillation,Beta-blockers or calcium channel blockers; lifestyle modifications.
+"Difficulty concentrating and memory lapses, accompanied by impulsivity, hyperactivity, and difficulty following instructions.",Attention Deficit Hyperactivity Disorder,Stimulant medications; behavioral therapy; educational interventions.
+"Swelling and pain in the joints, especially in the morning, accompanied by stiffness, redness, and limited range of motion.",Rheumatoid Arthritis,DMARDs for disease control; NSAIDs for pain relief; physical therapy.
+"Numbness and tingling in hands and feet, accompanied by burning pain, weakness, and sensitivity to touch.",Peripheral Neuropathy,Control blood sugar levels; pain relief medications; vitamin B supplements.
+"Muscle weakness and cramps without exertion, accompanied by fatigue, difficulty walking, and muscle stiffness.",Muscular Dystrophy,Physical therapy; corticosteroids for muscle strength; monitoring.
+"Frequent nosebleeds without any apparent reason, accompanied by easy bruising, prolonged bleeding from cuts, and small red spots on the skin.",Hereditary Hemorrhagic Telangiectasia,Moisturizing nasal sprays; cautery in recurrent cases; blood pressure monitoring.
+"Sore throat lasting for more than a week, accompanied by difficulty swallowing, fever, headache, and body aches.",Pharyngitis,Antibiotics if bacterial; analgesics for pain; throat lozenges.
+"Frequent headaches and sensitivity to light, accompanied by nausea, vomiting, and visual disturbances.",Migraine,Prescribed pain relief medication; avoid stress.
+"Upset stomach and loss of appetite, accompanied by nausea, vomiting, bloating, and abdominal pain.",Gastritis,Antacids and dietary adjustments.
+"Persistent cough and feeling of tiredness, accompanied by shortness of breath, wheezing, and mucus production.",Chronic Bronchitis,Increased fluid intake; prescribed bronchodilators.
+"Sharp pains in the lower back area, radiating down the leg, with numbness, tingling, and muscle weakness.",Sciatica,Physical therapy; pain relievers.
+"Feeling anxious without any apparent reason, accompanied by racing thoughts, difficulty relaxing, and physical symptoms like rapid heartbeat and sweating.",Anxiety Disorder,Cognitive Behavioral Therapy; anti-anxiety medication.
+"Experiencing joint pain in hands and feet, accompanied by stiffness, swelling, redness, and limited range of motion.",Rheumatoid Arthritis,NSAIDs; physical therapy.
+"Constant thirst and dry mouth, accompanied by frequent urination, blurred vision, and fatigue.",Diabetes,Blood sugar monitoring; insulin therapy.
+"Blurry vision and difficulty focusing, accompanied by headaches, eye strain, and squinting.",Myopia,Corrective lenses; regular eye exams.
+"Shortness of breath during light physical activity, accompanied by wheezing, chest tightness, and coughing.",Asthma,Inhaled corticosteroids; avoidance of triggers.
+"Sudden weight loss without changes in diet, accompanied by increased appetite, rapid heartbeat, anxiety, and sweating.",Hyperthyroidism,Thyroid hormone replacement therapy.
+"Skin rash and itching, accompanied by redness, small bumps, and blistering.",Contact Dermatitis,Topical corticosteroids; moisturizers.
+"Nausea and vomiting in the morning, accompanied by fatigue, breast tenderness, and missed period.",Pregnancy,Prenatal vitamins; regular check-ups.
+"Difficulty falling asleep at night, accompanied by racing thoughts, anxiety, and daytime fatigue.",Insomnia,Sleep hygiene practices; melatonin supplements.
+"Swelling and pain in one leg, accompanied by redness, warmth, and tenderness to the touch.",Deep Vein Thrombosis,Anticoagulants; wearing compression stockings.
+"Recurrent sore throat, accompanied by difficulty swallowing, fever, and headache.",Pharyngitis,Warm salt water gargles; analgesics.
+"Frequent urination, accompanied by urgency, burning sensation, and lower abdominal pain.",Urinary Tract Infection,Antibiotics; drink plenty of water.
+"Loss of smell and taste, accompanied by fever, cough, and fatigue.",COVID-19,Rest; hydration; antiviral drugs if severe.
+"Dizziness when standing up quickly, accompanied by lightheadedness, blurred vision, and weakness.",Orthostatic Hypotension,Increase salt intake; wear compression stockings.
+"Persistent fever and chills, accompanied by headache, muscle aches, and fatigue.",Influenza,Antipyretics; rest; plenty of fluids.
+"Unexplained bruising on the skin, accompanied by frequent nosebleeds, prolonged bleeding from cuts, and joint pain.",Hemophilia,Avoidance of known triggers; factor replacement therapy.
+"Severe abdominal pain, accompanied by nausea, vomiting, fever, and tenderness to the touch.",Appendicitis,Surgical evaluation; pain management.
+"Yellowing of the skin and eyes, accompanied by fatigue, abdominal pain, dark urine, and pale stools.",Hepatitis,Antiviral medications; rest.
+"Chest pain when breathing deeply, accompanied by shortness of breath, fever, and cough.",Pneumonia,Antibiotics; rest; hydration.
+"Continuous ringing in the ears, accompanied by dizziness, headache, and difficulty concentrating.",Tinnitus,Noise suppression devices; cognitive therapy.
+"Difficulty swallowing food and liquids, accompanied by chest pain, heartburn, and regurgitation of food.",Esophagitis,Proton pump inhibitors; diet modification.
+"Swollen and bleeding gums, accompanied by bad breath, loose teeth, and pain when chewing.",Gingivitis,Oral hygiene improvement; topical antibiotics.
+"Extreme fatigue after minimal activity, accompanied by muscle weakness, difficulty concentrating, and unrefreshing sleep.",Chronic Fatigue Syndrome,Pacing activities; energy management strategies.
+"Consistent muscle weakness, accompanied by difficulty walking, muscle cramps, and fatigue.",Muscular Dystrophy,Physical therapy; corticosteroids.
+"Irregular heartbeat, accompanied by palpitations, shortness of breath, dizziness, and chest pain.",Atrial Fibrillation,Antiarrhythmic drugs; lifestyle changes.
+"Severe itching without rash, accompanied by dry skin, redness, and inflammation.",Eczema,Moisturizers; topical steroids.
+"Hair loss in patches, accompanied by itching, scaling, and inflammation of the scalp.",Alopecia Areata,Topical minoxidil; steroid injections.
+"Brittle nails and dry skin, accompanied by fatigue, weight gain, and sensitivity to cold.",Hypothyroidism,Thyroid hormone therapy; regular monitoring.
+"Cramps and muscle spasms, accompanied by weakness, fatigue, and irregular heartbeat.",Electrolyte Imbalance,Electrolyte supplements; hydration.
+"Mood swings and irritability, accompanied by impulsivity, hyperactivity, and difficulty concentrating.",Bipolar Disorder,Mood stabilizers; psychotherapy.
+"Increased sensitivity to cold, accompanied by fatigue, weight gain, dry skin, and constipation.",Hypothyroidism,Synthetic thyroid hormone; avoid soy products.
+"Numbness in hands and feet, accompanied by tingling, burning pain, weakness, and sensitivity to touch.",Peripheral Neuropathy,Pain management; regular exercise.
+"Painful urination, accompanied by frequent urge to urinate, lower abdominal pain, and cloudy urine.",Cystitis,Antibiotics; urinary analgesics.
+"Excessive sweating at night, accompanied by fever, chills, and weight loss.",Tuberculosis,Antitubercular therapy; respiratory exercises.
+"Difficulty concentrating on tasks, accompanied by impulsivity, hyperactivity, and difficulty following instructions.",Attention Deficit Hyperactivity Disorder,Behavioral therapy; medication for focus and impulse control.
+"Loss of balance and coordination, accompanied by muscle weakness, numbness, and tingling.",Multiple Sclerosis,Disease-modifying treatments; physical therapy.
+"I've been experiencing severe headaches lately, accompanied by muscle tension in my neck and shoulders.",Tension Headaches,Avoid stress; consider over-the-counter pain relief.
+"My stomach has been upset almost every morning, accompanied by bloating, gas, abdominal cramps, and diarrhea.",Irritable Bowel Syndrome,Follow a low FODMAP diet; probiotics may help.
+"There's a persistent rash on my forearm, accompanied by itching, redness, small bumps, and blistering.",Contact Dermatitis,Avoid irritants; apply hydrocortisone cream as needed.
+"I've had a cough and difficulty breathing at night, accompanied by wheezing, chest tightness, and mucus production.",Bronchial Asthma,Use inhalers as prescribed; avoid allergens.
+"My knee hurts when I climb stairs, accompanied by swelling, stiffness, and limited range of motion.",Patellar Tendinitis,Physical therapy; rest; apply ice.
+"I'm seeing floaters in my vision frequently, accompanied by flashes of light and blurred vision.",Retinal Detachment,Seek immediate medical attention; surgery might be necessary.
+"I'm feeling unusually tired, even after resting, accompanied by pale skin, shortness of breath, and dizziness.",Iron Deficiency Anemia,Iron supplements; increase dietary iron intake.
+"Lower back pain is constant, especially after sitting, radiating down my leg, with numbness and tingling in my foot.",Sciatica,Pain relief medication; physical therapy.
+"Thirsty all the time and urinating more often, accompanied by fatigue, blurred vision, and unexplained weight loss.",Type 1 Diabetes Mellitus,Insulin therapy; monitor blood sugar levels.
+"Trouble falling asleep, feeling anxious, accompanied by racing thoughts, difficulty relaxing, and daytime fatigue.",Insomnia,Adopt good sleep hygiene; consider melatonin supplements.
+"My allergies have been worse this season, accompanied by itchy, watery eyes, sneezing, runny nose, and congestion.",Seasonal Allergies,Antihistamines as needed; nasal corticosteroids.
+"Experiencing pain and swelling in my wrists, accompanied by numbness, tingling, and weakness in my hands.",Carpal Tunnel Syndrome,Wrist splints; corticosteroid injections for relief.
+"My skin is very dry and itchy, accompanied by redness, flaking, and thickened skin.",Atopic Dermatitis,Moisturizers; topical steroids during flare-ups.
+"Feeling dizzy when I stand up quickly, accompanied by lightheadedness, blurred vision, and weakness.",Orthostatic Hypotension,Increase salt intake; wear compression stockings.
+"Hearing a ringing noise in my ears often, accompanied by dizziness, headache, and difficulty concentrating.",Tinnitus,Avoid loud noises; masking devices may help.
+"Losing weight without trying over the last month, accompanied by increased appetite, rapid heartbeat, anxiety, and sweating.",Hyperthyroidism,Antithyroid medications; regular monitoring of thyroid levels.
+"I've noticed more hair falling out than usual, accompanied by thinning hair, itching, and scaling of the scalp.",Alopecia Areata,Minoxidil topical treatment; corticosteroid injections.
+"My memory hasn't been as sharp lately, accompanied by difficulty concentrating, confusion, and personality changes.",Early Onset Dementia,Cognitive activities; consult a neurologist for medications.
+"Experiencing chest pain occasionally, accompanied by shortness of breath, palpitations, and dizziness.",Angina Pectoris,Nitroglycerin for acute chest pain; lifestyle changes.
+"My appetite has decreased significantly, accompanied by weight loss, fatigue, and changes in mood.",Anorexia,Nutritional counseling; possibly antidepressants.
+"Feeling short of breath after minimal activity, accompanied by wheezing, chest tightness, and chronic cough.",Chronic Obstructive Pulmonary Disease,Bronchodilators; oxygen therapy if needed.
+"Bruises appearing without any injury, accompanied by frequent nosebleeds, prolonged bleeding from cuts, and fatigue.",Leukemia,Chemotherapy or radiation therapy based on stage.
+"Frequent sore throats, more than usual, accompanied by difficulty swallowing, fever, headache, and body aches.",Pharyngitis,Warm saltwater gargles; analgesic lozenges.
+"Having difficulty swallowing food, accompanied by chest pain, heartburn, and regurgitation of food.",Esophageal Stricture,Dilated endoscopy for diagnosis; dietary adjustments.
+"Noticing blood in my stool, accompanied by changes in bowel habits, abdominal pain, and unexplained weight loss.",Colorectal Cancer,Colonoscopy for diagnosis; possible surgery.
+"Constantly feeling cold, even in warm environments, accompanied by fatigue, weight gain, dry skin, and constipation.",Hypothyroidism,Thyroid hormone replacement therapy.
+"My periods have been irregular, accompanied by heavy bleeding, pelvic pain, and acne.",Polycystic Ovary Syndrome,Birth control pills; lifestyle modifications.
+"Experiencing swelling and pain in my ankles, accompanied by redness, warmth, and limited range of motion.",Gout,NSAIDs for pain; lifestyle changes; diet modifications.
+"I've been experiencing severe headaches and occasional dizziness for the past two weeks, accompanied by nausea, vomiting, and sensitivity to light and sound.",Migraine,Prescribed Triptans; avoid triggers like stress and certain foods.
+"My stomach has been upset, and I've had bouts of diarrhea and nausea almost daily, accompanied by abdominal cramps, bloating, and gas.",Irritable Bowel Syndrome,High-fiber diet; antispasmodic medications.
+"I've noticed a rash on my arm that's itchy and has been spreading, accompanied by redness, small bumps, and blistering.",Contact Dermatitis,Topical steroids; moisturizers; avoid irritants.
+"I have persistent coughing and shortness of breath, especially at night, accompanied by wheezing, chest tightness, and mucus production.",Chronic Obstructive Pulmonary Disease,Inhaled bronchodilators; quit smoking.
+"I'm experiencing sharp knee pain when I walk or climb stairs, accompanied by swelling, stiffness, and limited range of motion.",Tendinitis,Physical therapy; NSAIDs for pain relief.
+"My vision has become blurry, especially when reading or looking at screens, accompanied by difficulty seeing at night, glare around lights, and halos.",Age-related Macular Degeneration,Anti-VEGF therapy; laser treatment.
+"I've been having trouble sleeping, feeling anxious and restless most nights, accompanied by racing thoughts, difficulty relaxing, and daytime fatigue.",Insomnia,Cognitive behavioral therapy for insomnia; sleep hygiene improvements.
+"I've lost a lot of weight recently without trying, accompanied by increased appetite, rapid heartbeat, anxiety, sweating, and fatigue.",Hyperthyroidism,Antithyroid medications; beta-blockers for symptom relief.
+"I have a constant dry cough and it's been getting worse, accompanied by night sweats, fatigue, weight loss, and fever.",Tuberculosis,Antibiotics; rest; a healthy diet.
+"I've been experiencing joint pain and stiffness, especially in the mornings, accompanied by swelling, redness, and limited range of motion.",Rheumatoid Arthritis,DMARDs (Disease-modifying antirheumatic drugs); NSAIDs.
+"I have difficulty swallowing and a sore throat that won't go away, accompanied by hoarseness, coughing, and feeling of a lump in the throat.",Esophagitis,Proton pump inhibitors; avoid spicy foods.
+"I've noticed blood in my stool on several occasions, accompanied by changes in bowel habits, abdominal pain, and unexplained weight loss.",Colorectal Cancer,Surgical options; chemotherapy; radiation therapy.
+"I get dizzy spells and sometimes feel like I am going to faint, accompanied by lightheadedness, blurred vision, and weakness.",Orthostatic Hypotension,Increase salt intake; wear compression stockings.
+"I have been experiencing numbness and tingling in my hands and feet, accompanied by burning pain, weakness, and sensitivity to touch.",Peripheral Neuropathy,Blood sugar control; pain relievers; capsaicin cream.
+"I'm finding it increasingly difficult to concentrate at work or at home, accompanied by impulsivity, hyperactivity, and difficulty following instructions.",Attention Deficit Hyperactivity Disorder,Stimulant medications; behavioral therapy.
+"I've been feeling short of breath after only minimal physical activity, accompanied by fatigue, swelling in my ankles and feet, and persistent cough.",Heart Failure,ACE inhibitors; lifestyle changes.
+"I have a persistent high fever that hasn't improved with over-the-counter medication, accompanied by headache, muscle aches, abdominal pain, and diarrhea.",Typhoid Fever,Antibiotics; hydration; complete bed rest.
+"I've been experiencing severe mood swings and periods of intense sadness, accompanied by impulsivity, hyperactivity, irritability, and sleep disturbances.",Bipolar Disorder,Mood stabilizers; psychotherapy.
+"I have swelling and redness in one of my legs, and it feels warm to the touch, accompanied by pain, tenderness, and throbbing sensation.",Deep Vein Thrombosis,Anticoagulant therapy; wearing compression stockings.
+"I'm noticing changes in my vision, including dark spots and blurred lines, accompanied by blurred vision, floaters, and difficulty seeing at night.",Diabetic Retinopathy,Blood sugar control; regular eye exams.
+"I have a severe sore throat, making it difficult to swallow or speak, accompanied by fever, headache, body aches, and swollen lymph nodes.",Pharyngitis,Antibiotics; throat lozenges; plenty of fluids.
+"I experience sudden and severe abdominal pain on a regular basis, accompanied by nausea, vomiting, bloating, and fever.",Gallstones,Pain management; possibly surgery for gallstone removal.
+"I have been noticing an unusual lump in my neck that seems to be growing, accompanied by difficulty swallowing, hoarseness, and persistent cough.",Thyroid Nodule,Regular monitoring; possible surgery if it grows or changes.
+"I get severe cramps in my legs and feet, especially at night, accompanied by tingling, numbness, and muscle weakness.",Peripheral Artery Disease,Walking exercise; avoid cold temperatures.
+"I have had a persistent headache for the past month that medication doesn't help, accompanied by nausea, vomiting, and sensitivity to light and sound.",Chronic Migraine,Pain management with medication; relaxation techniques.
+"I've been experiencing excessive sweating, even in cool temperatures, accompanied by anxiety, social embarrassment, and skin irritation.",Hyperhidrosis,Antiperspirants; botox injections for severe cases.
+"I've been experiencing unexplained weight loss and frequent urination, accompanied by fatigue, increased hunger, blurred vision, and excessive thirst.",Diabetes Type 1,Insulin therapy; monitor blood sugar levels.
+"My joints are swollen and stiff, especially in the morning.",Rheumatoid Arthritis,DMARDs and NSAIDs; physical therapy.
+"I feel constant fatigue and my skin has yellowed.",Hepatitis,Antiviral drugs; avoid alcohol and fatty foods.
+"I'm having difficulty breathing and my chest feels tight
